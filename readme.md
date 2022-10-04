@@ -8,7 +8,7 @@ This repo contains three folders:
 
 ## Getting started
 
-TODO: add blog post
+A blog post detailing everything in this repo is available [here](https://www.propelauth.com/post/instant-multi-tenant-graphql-apis-with-postgraphile-rls-and-propelauth).
 
 To get started, you'll need to first:
 
